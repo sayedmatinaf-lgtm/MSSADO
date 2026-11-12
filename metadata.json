@@ -1,0 +1,6 @@
+{
+  "name": "MSSADO - Mirab Social Services and Development Organization",
+  "description": "Mirab Social Services and Development Organization (MSSADO) - Supporting vulnerable communities with sustainable solutions in disaster risk reduction, water and WASH programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
