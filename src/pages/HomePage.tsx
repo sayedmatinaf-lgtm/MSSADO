@@ -202,10 +202,10 @@ export const HomePage: React.FC<HomePageProps> = ({
               <div className="relative w-full max-w-[480px]">
                 <div className="relative aspect-square w-full rounded-[45%_55%_65%_35%/50%_45%_55%_50%] overflow-hidden shadow-2xl border-4 border-amber-50">
                   <img
-                    src="/public/assets/mirab/project_2.jpg"
-                    alt="Community engagement in Herat"
-                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
-                  />
+  src="/assets/mirab/project_2.jpg"
+  alt="Community engagement in Herat"
+  className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
+/>
                 </div>
 
                 <div className="absolute -bottom-6 -right-4 bg-white p-4 rounded-2xl shadow-xl border border-amber-100 flex items-center gap-3.5 max-w-[240px]">
