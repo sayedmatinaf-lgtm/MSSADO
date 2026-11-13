@@ -163,14 +163,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate, onOpenDonate }
             </p>
           </div>
 
-          <button
-            type="button"
-            onClick={onOpenDonate}
-            className="bg-[#F59E0B] hover:bg-[#D97706] text-white font-bold text-xs uppercase tracking-wider px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all cursor-pointer shrink-0 flex items-center gap-2 group"
-          >
-            <span>Partner With Us</span>
-            <Heart className="w-4 h-4 fill-white group-hover:scale-110 transition-transform" />
-          </button>
+          
         </div>
       </section>
     </div>
